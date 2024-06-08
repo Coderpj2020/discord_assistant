@@ -3,7 +3,7 @@ To use this code, follow the instructions:
 
 Install all dependencies:
 
-npm i
+npm i 
 
 Create a .env file for environment variables in the root directory of this repository, not inside the src folder!
 
